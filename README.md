@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ivan-david-ruiz-439514a8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/david_Eas/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/ivan-david-ruiz-439514a8/"><img alt="LinkedIn"></a>
+<a href="https://www.instagram.com/david_Eas/"><img alt="Instagram" ></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/Druiz73)
+
