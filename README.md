@@ -44,7 +44,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/ivan-david-ruiz-439514a8//">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-[![Instagram Badge](https://img.shields.io/badge/-@Druiz73?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/Druiz73/)](https://www.instagram.com/Druiz73/)
+<a href="https://instagram.com/Druiz73">
+  <img align="left" alt="Druiz73's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 </p>
 
 
