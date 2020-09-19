@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/AVS1508)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Druiz73&show_icons=true)](https://github.com/Druiz73)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/david_Eas/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [AVS1508](https://github.com/Druiz73)
