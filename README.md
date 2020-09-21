@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying fullstack developer
+- 🎓 &nbsp; Graduate fullstack developer
 - 💼 &nbsp; Working as Freelance asociate with marketing empresure.
 - 🌱 &nbsp; Learning more about FrontEnd technologies.
 
