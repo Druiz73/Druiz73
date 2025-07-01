@@ -1,52 +1,42 @@
-### Hi there 👋
+### 👋 ¡Hola! Soy David Ruiz
 
-<!--
-**Druiz73/Druiz73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Desarrollador Mobile especializado en React Native**, con más de 5 años de experiencia construyendo aplicaciones de alto impacto para empresas en Latinoamérica, Estados Unidos y Europa.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mí
 
+- 📱 Trabajo principalmente con **React Native**, aunque también tengo experiencia con **React JS**, **WordPress** y tecnologías back como **Node.js**.
+- 🚀 He participado en el desarrollo de apps móviles de salud, fintech y retail, incluyendo **productos desde cero** y otros en fases avanzadas.
+- 🧩 Me enfoco en **arquitecturas escalables, buen rendimiento y código mantenible** (Clean Architecture, SOLID, Zustand, Redux).
+- 🤝 Me gusta aprender constantemente, resolver problemas reales y trabajar en equipo.
 
-<h2> Hey there! I'm David.</h2>
+---
 
-<h3> 👨🏻‍💻 About Me </h3>
+### 🛠️ Tecnologías que uso
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduate fullstack developer
-- 💼 &nbsp; Working as Freelance asociate with marketing empresure.
-- 🌱 &nbsp; Learning more about FrontEnd technologies.
+- **Lenguajes:** TypeScript · JavaScript
+- **Mobile:** React Native · Expo · Deep Linking · Push Notifications
+- **Front:** React JS · HTML/CSS · WordPress
+- **Back:** Node.js · REST APIs · Firebase
+- **State Management:** Redux · Zustand · Context API
+- **Testing:** Jest · React Native Testing Library
+- **DevOps:** GitHub Actions · EAS · Fastlane
+- **Otros:** Photoshop · Figma · Firebase · Sentry · Amplitude
 
+---
 
-<h3>🛠 Tech Stack</h3>
+### 📈 Estadísticas (en desarrollo)
 
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Druiz73&show_icons=true&theme=default)](https://github.com/Druiz73)
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Trello
-- 🖥 &nbsp; Wordpress| Photoshop 
+---
 
-<br/>
+### 🌐 Conectá conmigo
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Druiz73&show_icons=true)](https://github.com/Druiz73)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ivan-david-ruiz-439514a8/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Druiz73)
 
-<h3> 🤝🏻 Connect with Me </h3>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ivan-david-ruiz-439514a8//">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://instagram.com/Druiz73">
-  <img align="left" alt="Druiz73's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-</p>
-
-
+💡 *Estoy actualizando mi perfil con nuevos proyectos. ¡Muy pronto vas a ver más actividad por acá!*
