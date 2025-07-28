@@ -26,17 +26,5 @@ Soy **Desarrollador Mobile especializado en React Native**, con más de 5 años 
 
 ---
 
-### 📈 Estadísticas (en desarrollo)
-
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Druiz73&show_icons=true&theme=default)](https://github.com/Druiz73)
-
----
-
-### 🌐 Conectá conmigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ivan-david-ruiz-439514a8/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Druiz73)
-
----
 
 💡 *Estoy actualizando mi perfil con nuevos proyectos. ¡Muy pronto vas a ver más actividad por acá!*
